@@ -5,8 +5,11 @@
     
     ## Sobre mi
     
+    <p>
     - 📲 Análista de datos
     - 🎥 Programador
+    </p>
+    
     <br>
     
     ## Proyectos destacados
