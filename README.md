@@ -3,7 +3,7 @@
       <img src="https://i.imgur.com/aIqzYuX.png">
     </div>
     
-    ## Sobre mi
+    <h1>Sobre mi</h1>
     
     <p>
     - 📲 Análista de datos
