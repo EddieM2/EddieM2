@@ -23,6 +23,8 @@
     </p>
     <p>Esta página web fue desarrollada en:</p>
     <button>HTML</button>
+    <button>SCSS</button>
+    <button>JavaScript</button>
     </div>
                                                                                       
 </td>
@@ -38,7 +40,10 @@
     <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
     </a>
     </p>
-    </p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+    <p>Esta página web fue desarrollada en:
+    <button>HTML</button>
+    <button>SCSS</button>
+    </p>
     </div>                                                             
     </table>                                                                                 
     </div>
@@ -55,7 +60,11 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Esta página web fue desarrollada en:
+    <button>HTML</button>
+    <button>CSS</button>
+    <button>JavaScript</button>
+    </p>
 </div>
                                                                                       
 </td>       
@@ -69,7 +78,10 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Esta página web fue desarrollada en:
+    <button>HTML</button>
+    <button>CSS</button>
+    </p>
 </div>
                                                                                       
 </td>  
@@ -77,11 +89,3 @@
 </div>
 <br>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
