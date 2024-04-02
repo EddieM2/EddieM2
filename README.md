@@ -30,7 +30,7 @@
                    <br>
     <h3 align="center">Block de Café</h3>
     <div align="center">                                       
-    <a href="https://github.com/EddieM2/BlogDeCafe" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Block de cafe"></a>
+    <a href="https://github.com/EddieM2/BlogDeCafe" target="_blank"><img src="https://i.imgur.com/lIU8ppD.jpg" width="400" alt="Block de cafe"></a>
     <br>
     <p>
     <a href="https://github.com/EddieM2/BlogDeCafe" target="_blank">
@@ -48,9 +48,9 @@
 <td width="50%">
 <h3 align="center">BlackJack</h3>
 <div align="center">
-<a href="[https://github.com/ArisGuimera/Android-Expert-Intermedio](https://github.com/EddieM2/Blackjack)" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/EddieM2/Blackjack" target="_blank"><img src="https://i.imgur.com/w71VkXP.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="[https://github.com/ArisGuimera/Android-Expert-Intermedio](https://github.com/EddieM2/Blackjack)" target="_blank">
+<a href="https://github.com/EddieM2/Blackjack" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -62,7 +62,7 @@
 <td width="50%">
 <h3 align="center">FrondEnd Store</h3>
 <div align="center">
-<a href="https://github.com/EddieM2/Frond-End-Store" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/EddieM2/Frond-End-Store" target="_blank"><img src="https://i.imgur.com/U9eSL4I.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/EddieM2/Frond-End-Store" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
