@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">Hola, soy EddieM2 👋</h1>
-      <img src="https://i.imgur.com/aIqzYuX.png">
+      <img src="https://i.imgur.com/ljsi0kl.png">
     </div>
 
 ## Sobre mi
